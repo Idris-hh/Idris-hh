@@ -1,7 +1,5 @@
 # 👋 Hi, ich bin Idris!  
-
-🚀 **Datenanalyst | Excel | Python | Power BI**  
-
+ 
 Ich bin begeistert von, **Daten und deren Möglichkeiten, Muster zu erkennen und wertvolle Insights zu liefern**.  
 ### 🔹 **Meine Schwerpunkte:**  
 ✅ **Datenbereinigung & Transformation** (Excel, SQL)  
